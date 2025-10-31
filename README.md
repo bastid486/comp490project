@@ -6,7 +6,7 @@ Install Docker Desktop Application, video for setup: https://www.youtube.com/wat
 
 Install Postman application for testing API responses
 
-
+ 
 Backend Procedure:
 
 Open project folder where backend is located.
