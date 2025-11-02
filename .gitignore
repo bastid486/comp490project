@@ -62,3 +62,6 @@ nbdist/
 
 ### VS Code ###
 .vscode
+
+## .env folder ##
+.env
